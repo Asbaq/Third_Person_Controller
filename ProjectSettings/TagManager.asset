@@ -9,6 +9,8 @@ TagManager:
   - Cube
   - Sphere
   - Cylinder
+  - Ledge
+  - Default
   layers:
   - Default
   - TransparentFX
